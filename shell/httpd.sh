@@ -1,0 +1,1 @@
+Sudo systemctl status httpd

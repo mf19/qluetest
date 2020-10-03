@@ -1,0 +1,1 @@
+rename s/mig33/inner.folder/.txt .dat *.txt
